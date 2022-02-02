@@ -1,1 +1,12 @@
 Esta historia fue modificada desde GitHub
+
+
+EXPERIMENTO 1
+
+EXPERIMENTO 2
+
+
+Historia modificada para hacer rebase
+
+Master 2
+
